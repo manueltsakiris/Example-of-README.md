@@ -1,1 +1,1 @@
-# PROJECT-FOR-STUDY
+# Example of README.md
